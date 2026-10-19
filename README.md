@@ -1,5 +1,3 @@
-## Olá, eu sou o Gustavo Dantas 👋
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/GustavoDantass/GustavoDantass/output/github-snake-dark.svg" />
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/GustavoDantass/GustavoDantass/output/github-snake.svg" />
